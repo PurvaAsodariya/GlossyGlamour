@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.makeup",
+        "pk": 1,
+        "fields": {
+            "name": "Face Concealer | Seal the Deal Concealer",
+            "description": "A sleek and stylish ceramic lamp that adds a modern touch to any room.",
+            "price": "299",
+            "available": true,
+            "category": "Face",
+            "image": "face1.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 2,
+        "fields": {
+            "name": "Lightweight BB Cream Foundation",
+            "description": "A comfortable and plush seater chair, perfect for relaxing in style.",
+            "price": "399",
+            "available": true,
+            "category": "Face",
+            "image": "face2.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 3,
+        "fields": {
+            "name": "Loose Powder | Trend Setting Powder",
+            "description": "A beautifully crafted wooden table that adds elegance to your home.",
+            "price": "279",
+            "available": true,
+            "category": "Face",
+            "image": "face3.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 4,
+        "fields": {
+            "name": "Illuminati Base | Strobe Cream, 45ml",
+            "description": "A classic round wooden table, perfect for dining or displaying decor.",
+            "price": "289",
+            "available": true,
+            "category": "Face",
+            "image": "face4.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 5,
+        "fields": {
+            "name": "Foundation | High Coverage Formula",
+            "description": "A set of beautifully crafted ceramic pieces to elevate your home decor.",
+            "price": "379",
+            "available": true,
+            "category": "Face",
+            "image": "face5.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 6,
+        "fields": {
+            "name": "Blossom Foundation | Soft Matte Foundation",
+            "description": "An exquisite copper tea jug set that combines style with functionality.",
+            "price": "449",
+            "available": true,
+            "category": "Face",
+            "image": "face6.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 7,
+        "fields": {
+            "name": "Blossom Liquid Concealer",
+            "description": "A durable steel pot jug, ideal for serving and adding a modern look to your kitchen.",
+            "price": "249",
+            "available": true,
+            "category": "Face",
+            "image": "face7.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 8,
+        "fields": {
+            "name": "Wonder Cover | Concealer",
+            "description": "A comfortable bamboo sofa, combining eco-friendly materials with a natural aesthetic.",
+            "price": "199",
+            "available": true,
+            "category": "Face",
+            "image": "face8.webp"
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.makeup",
+        "pk": 17,
+        "fields": {
+            "name": "Glorious Trio",
+            "description": "Recipe to become Glorious: Sprinkle a bit of sparkle! Our Glorious Trio is a 3 Step Recipe to get a Glamorous Look!",
+            "price": "849",
+            "available": true,
+            "category": "Combo",
+            "image": "combo1.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 18,
+        "fields": {
+            "name": "Essentials Trio",
+            "description": "Each day, three must-haves as your beauty bae! The Essentials Trio gets you ready in just 3 simple steps.",
+            "price": "499",
+            "available": true,
+            "category": "Combo",
+            "image": "combo2.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 19,
+        "fields": {
+            "name": "The Lazy Kit",
+            "description": "Too Lazy for the whole glam?!! We got you covered with our Lazy Kit and its 3 step Makeup Routine! Go and Grab all the attention without a lot of tension!",
+            "price": "899",
+            "available": true,
+            "category": "Combo",
+            "image": "combo3.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 20,
+        "fields": {
+            "name": "Travel Set",
+            "description": "Introducing the ultimate solution for tight travel bag space: our Travel Set. Packed with 11 must-have makeup essentials made into just 3 products.",
+            "price": "1249",
+            "available": true,
+            "category": "Combo",
+            "image": "combo4.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 21,
+        "fields": {
+            "name": "Daily Essentials Kit",
+            "description": "Transform your daily beauty routine with our curated Daily Essential Beauty Kit, designed to enhance your natural beauty effortlessly.",
+            "price": "1099",
+            "available": true,
+            "category": "Combo",
+            "image": "combo5.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 22,
+        "fields": {
+            "name": "Essential Glow",
+            "description": "Introducing the Base Makeup Set: Your Essentials for a Flawless Glow.",
+            "price": "849",
+            "available": true,
+            "category": "Combo",
+            "image": "combo6.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 23,
+        "fields": {
+            "name": "Travel Set - Make Your Own Set",
+            "description": "Introducing the ultimate solution for tight travel bag space: our Travel Set. Packed with 11 must-have makeup essentials made into just 3 products.",
+            "price": "1199",
+            "available": true,
+            "category": "Combo",
+            "image": "combo7.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 24,
+        "fields": {
+            "name": "Trending Set of 5 | Plush Velvet Lipstick",
+            "description": "It is a highly pigmented, smooth glide and a matte finish beauty for you to express yourself.",
+            "price": "1099",
+            "available": true,
+            "category": "Combo",
+            "image": "combo8.webp"
+        }
+    }
+]

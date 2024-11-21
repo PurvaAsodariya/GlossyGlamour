@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.makeup",
+        "pk": 9,
+        "fields": {
+            "name": "Matte Lipsticks Box | Set of 3",
+            "description": "A set of 3 long-lasting matte lipsticks in a variety of bold, rich shades, perfect for all-day wear.",
+            "price": "399",
+            "available": true,
+            "category": "Lips",
+            "image": "lip1.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 10,
+        "fields": {
+            "name": "Matte Lip Crayon | Won't Smudge Won't Budge",
+            "description": "A highly pigmented matte lip crayon that glides on smoothly and stays in place all day without smudging.",
+            "price": "249",
+            "available": true,
+            "category": "Lips",
+            "image": "lip2.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 11,
+        "fields": {
+            "name": "Super Stay | Non Transfer Lipstick",
+            "description": "A non-transferable matte lipstick that stays intact for hours, giving you a bold, vibrant color without fading.",
+            "price": "279",
+            "available": true,
+            "category": "Lips",
+            "image": "lip3.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 12,
+        "fields": {
+            "name": "Color Balm Lipstick",
+            "description": "A moisturizing lip balm with a tint of color that nourishes and hydrates your lips while providing a soft, natural finish.",
+            "price": "229",
+            "available": true,
+            "category": "Lips",
+            "image": "lip4.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 13,
+        "fields": {
+            "name": "Creamy Matte Lipstick",
+            "description": "A creamy matte lipstick that offers intense color payoff with a comfortable, lightweight feel.",
+            "price": "199",
+            "available": true,
+            "category": "Lips",
+            "image": "lip5.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 14,
+        "fields": {
+            "name": "Matte Lipstick | Non Transfer Butter Stick",
+            "description": "A buttery smooth, non-transferable matte lipstick that delivers bold color with a soft, velvety finish.",
+            "price": "349",
+            "available": true,
+            "category": "Lips",
+            "image": "lip6.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 15,
+        "fields": {
+            "name": "Matte Lip Color",
+            "description": "A richly pigmented matte lip color that offers long-lasting wear with a smooth, comfortable texture.",
+            "price": "199",
+            "available": true,
+            "category": "Lips",
+            "image": "lip7.webp"
+        }
+    },
+    {
+        "model": "api.makeup",
+        "pk": 16,
+        "fields": {
+            "name": "Candylicious | Lip Gloss",
+            "description": "A high-shine lip gloss with a candy-sweet scent, giving your lips a glossy, luscious finish.",
+            "price": "299",
+            "available": true,
+            "category": "Lips",
+            "image": "lip8.webp"
+        }
+    }
+]
